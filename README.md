@@ -35,7 +35,13 @@ This repository contains client-side JavaScript solutions for Lab #4a, demonstra
 
 
 ### Question 2 — Smart Number Validator
-![Q2 Output](path/to/q2-screenshot.png)
+<img width="594" height="196" alt="image" src="https://github.com/user-attachments/assets/c2894910-3b3b-4755-a0a5-50f8546db70a" />
+<img width="591" height="231" alt="image" src="https://github.com/user-attachments/assets/855e7806-c52f-407f-9c83-44bff22df443" />
+<img width="591" height="203" alt="image" src="https://github.com/user-attachments/assets/8e63ba05-5f60-43ea-a340-295d74a168dc" />
+<img width="597" height="243" alt="image" src="https://github.com/user-attachments/assets/a3e640dd-9fff-48ae-8549-f860424a98cc" />
+<img width="589" height="255" alt="image" src="https://github.com/user-attachments/assets/2fcf100a-30fa-4fe7-a5a0-cf96a30801c6" />
+
 
 ### Question 3 — Dynamic Number Generator
-![Q3 Output](path/to/q3-screenshot.png)
+<img width="681" height="394" alt="image" src="https://github.com/user-attachments/assets/e9a08c2d-04b2-49df-9473-cb01add0d281" />
+
