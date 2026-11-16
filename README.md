@@ -31,7 +31,8 @@ This repository contains client-side JavaScript solutions for Lab #4a, demonstra
 
 ## Output Screenshots
 ### Question 1 — Interactive Text Changer
-![Q1 Output](path/to/q1-screenshot.png)
+![Q1 Output](<img width="903" height="345" alt="image" src="https://github.com/user-attachments/assets/eec774f5-5305-4ff4-8f9e-7c805abe4f6a" />
+)
 
 ### Question 2 — Smart Number Validator
 ![Q2 Output](path/to/q2-screenshot.png)
